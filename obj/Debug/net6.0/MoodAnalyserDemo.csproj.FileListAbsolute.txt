@@ -1,0 +1,14 @@
+C:\Users\anany\source\repos\MoodAnalyserDemo\obj\Debug\net6.0\MoodAnalyserDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anany\source\repos\MoodAnalyserDemo\obj\Debug\net6.0\MoodAnalyserDemo.AssemblyInfoInputs.cache
+C:\Users\anany\source\repos\MoodAnalyserDemo\obj\Debug\net6.0\MoodAnalyserDemo.AssemblyInfo.cs
+C:\Users\anany\source\repos\MoodAnalyserDemo\obj\Debug\net6.0\MoodAnalyserDemo.csproj.CoreCompileInputs.cache
+C:\Users\anany\source\repos\MoodAnalyserDemo\bin\Debug\net6.0\MoodAnalyserDemo.exe
+C:\Users\anany\source\repos\MoodAnalyserDemo\bin\Debug\net6.0\MoodAnalyserDemo.deps.json
+C:\Users\anany\source\repos\MoodAnalyserDemo\bin\Debug\net6.0\MoodAnalyserDemo.runtimeconfig.json
+C:\Users\anany\source\repos\MoodAnalyserDemo\bin\Debug\net6.0\MoodAnalyserDemo.dll
+C:\Users\anany\source\repos\MoodAnalyserDemo\bin\Debug\net6.0\MoodAnalyserDemo.pdb
+C:\Users\anany\source\repos\MoodAnalyserDemo\obj\Debug\net6.0\MoodAnalyserDemo.dll
+C:\Users\anany\source\repos\MoodAnalyserDemo\obj\Debug\net6.0\refint\MoodAnalyserDemo.dll
+C:\Users\anany\source\repos\MoodAnalyserDemo\obj\Debug\net6.0\MoodAnalyserDemo.pdb
+C:\Users\anany\source\repos\MoodAnalyserDemo\obj\Debug\net6.0\MoodAnalyserDemo.genruntimeconfig.cache
+C:\Users\anany\source\repos\MoodAnalyserDemo\obj\Debug\net6.0\ref\MoodAnalyserDemo.dll
